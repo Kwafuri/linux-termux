@@ -21,7 +21,7 @@ fi
     echo "Installing proot and wget first, just in case it's not installed..."
     apt-get install proot wget
     echo "Installing Ubuntu 16.04..."
-    bash <(curl -sSL https://raw.githubusercontent.com/HayasakaYui/linux-termux/main/resources/ubuntu/ubuntu-16.04/ubuntu.sh)
+    bash <(curl -sSL https://raw.githubusercontent.com/Kwafuri/linux-termux/main/resources/ubuntu/ubuntu-16.04/ubuntu.sh)
 fi
 fi
 if [ $choice2 == "2" ]
@@ -36,7 +36,7 @@ fi
     echo "Installing proot and wget first, just in case it's not installed..."
     apt-get install proot wget
     echo "Installing Ubuntu 18.04..."
-    bash <(curl -sSL https://raw.githubusercontent.com/HayasakaYui/linux-termux/main/resources/ubuntu/ubuntu-18.04/ubuntu.sh)
+    bash <(curl -sSL https://raw.githubusercontent.com/Kwafuri/linux-termux/main/resources/ubuntu/ubuntu-18.04/ubuntu.sh)
 fi
 fi
 if [ $choice2 == "3" ]
@@ -51,7 +51,7 @@ fi
     echo "Installing proof and wget first, just in case it's not installed..."
     apt-get install proot wget
     echo "Installing Ubuntu 20.04..."
-    bash <(curl -sSL https://raw.githubusercontent.com/HayasakaYui/linux-termux/main/resources/ubuntu/ubuntu-20.04/ubuntu.sh)
+    bash <(curl -sSL https://raw.githubusercontent.com/Kwafuri/linux-termux/main/resources/ubuntu/ubuntu-20.04/ubuntu.sh)
 fi
 fi
 if [ $choice2 == "4" ]
@@ -66,7 +66,7 @@ fi
     echo "Installing proot and wget first, just in case it's not installed..."
     apt-get install proot wget
     echo "Installing Ubuntu 20.10..."
-    bash <(curl -sSL https://raw.githubusercontent.com/HayasakaYui/linux-termux/main/resources/ubuntu/ubuntu-20.10/ubuntu.sh)
+    bash <(curl -sSL https://raw.githubusercontent.com/Kwafuri/linux-termux/main/resources/ubuntu/ubuntu-20.10/ubuntu.sh)
 fi
 fi
 
@@ -82,7 +82,7 @@ fi
     echo "Installing proot and wget first, just in case it's not installed..."
     apt-get install proot wget
     echo "Installing Ubuntu 21.04..."
-    bash <(curl -sSL https://raw.githubusercontent.com/HayasakaYui/linux-termux/main/resources/ubuntu/ubuntu-21.04/ubuntu.sh)
+    bash <(curl -sSL https://raw.githubusercontent.com/Kwafuri/linux-termux/main/resources/ubuntu/ubuntu-21.04/ubuntu.sh)
 fi
 fi
 if [ $choice2 == "6" ]
@@ -100,7 +100,7 @@ read -p "Please enter a number: " choice4
 if [ $choice4 == "1" ]
     then
     echo "Beginning uninstalling Ubuntu"
-    bash <(curl -sSL https://raw.githubusercontent.com/HayasakaYui/linux-termux/main/resources/uninstall/uninstall-ubuntu.sh)
+    bash <(curl -sSL https://raw.githubusercontent.com/Kwafuri/linux-termux/main/resources/uninstall/uninstall-ubuntu.sh)
 fi
 if [ $choice4 == "2" ]
     then
