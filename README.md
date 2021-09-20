@@ -9,7 +9,7 @@ I won't be able to do some update to this repository due to some busy stuff I di
 - `bash <(curl -sSL https://files.saikyou.xyz/script.sh)` 
 
 ## I added support to more Ubuntu versions!
-- [x] 12.04
+- [ ] 12.04
 - [x] 14.04
 - [x] 16.04
 - [x] 18.04
