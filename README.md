@@ -1,5 +1,5 @@
 # Linux In Termux
-Let's you install Linux distros in Android phones using an app called [Termux](https://f-droid.org/repo/com.termux_114.apk).
+Let's you install Linux distros in Android phones using an app called [Termux](https://f-droid.org/en/packages/com.termux/).
 
 # Note
 I won't be able to do some update to this repository due to some busy stuff I did in life. Thanks for understanding.
