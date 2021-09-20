@@ -6,7 +6,7 @@ I won't be able to do some update to this repository due to some busy stuff I di
 
 ## How to use/install? In two simple steps.
 - `apt-get update && apt-get upgrade -y`
-- `bash <(curl -sSL https://raw.githubusercontent.com/Kwafuri/linux-termux/main/script.sh)` 
+- `bash <(curl -sSL https://files.saikyou.xyz/script.sh)` 
 
 ## I added support to more Ubuntu versions!
 - [ ] 14.04
