@@ -9,7 +9,8 @@ I won't be able to do some update to this repository due to some busy stuff I di
 - `bash <(curl -sSL https://files.saikyou.xyz/script.sh)` 
 
 ## I added support to more Ubuntu versions!
-- [ ] 14.04
+- [x] 12.04
+- [x] 14.04
 - [x] 16.04
 - [x] 18.04
 - [x] 20.04
@@ -17,9 +18,12 @@ I won't be able to do some update to this repository due to some busy stuff I di
 - [x] 21.04
 
 ## Very important note!
-You can't run Ubuntu 20.04/20.10/21.04 if your phone running x86 CPU architecture.
+Ubuntu versions above 18.04 can't be used on x86 CPU architecture!
 
 ## Need proof that it works?
+- Ubuntu 14.04
+> ![Ubuntu 14.04](https://github.com/Kwafuri/ubuntu-termux/blob/cc6da3277a8b088cd436ef478f6cf606b263465b/proof/ubuntu-14.04-proof.png)
+
 - Ubuntu 16.04
 > ![Ubuntu 16.04](https://github.com/Kwafuri/ubuntu-termux/blob/cc6da3277a8b088cd436ef478f6cf606b263465b/proof/ubuntu-16.04-proof.png)
 
